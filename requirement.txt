@@ -1,5 +1,7 @@
+streamlit
 numpy
 pandas
+
 # Core LangChain packages
 langchain==0.3.27
 langchain-core==0.3.78
@@ -11,8 +13,13 @@ langchain-community==0.3.30
 # LLM support
 google-ai-generativelanguage==0.7.0
 
-# Database
-mysql-connector-python==8.1.0
+# Postgres support for Neon
+psycopg2-binary==2.9.10
+sqlalchemy
+
+# Optionally keep MySQL if still needed
+# mysql-connector-python==8.1.0
+
 cryptography==41.0.3
 
 # Utilities for langchain-core
@@ -22,5 +29,8 @@ requests-toolbelt==1.0.0
 zstandard==0.25.0
 httpx-sse==0.4.1
 
-#requirements for neon DB 
-psycopg2==2.9.10
+# For dotenv support
+python-dotenv
+
+#For Mysql 
+mysql-connector-python==8.1.0
