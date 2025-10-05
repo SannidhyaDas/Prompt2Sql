@@ -32,5 +32,5 @@ httpx-sse==0.4.1
 # For dotenv support
 python-dotenv
 
-#For Mysql 
-mysql-connector-python==8.1.0
+
+
