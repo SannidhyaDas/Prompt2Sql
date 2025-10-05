@@ -1,6 +1,6 @@
 # Prompt2SQL 🚀  
 **An AI-powered app that turns natural language into SQL queries**  
-Easily query your databases by simply asking questions in plain English. Supports multiple databases, seamless query execution, and a clean interface for instant insights.  
+Easily query your databases by simply asking questions in plain English. Supports multiple databases, seamless query execution, and a clean interface for instant insights.  [App Link](https://sannidhyadas-prompt2sql.streamlit.app/)
 
 
 ![App Interface](https://github.com/SannidhyaDas/Prompt2Sql/blob/main/App_Interface.png)
@@ -72,6 +72,7 @@ Prompt2SQL can be adapted to solve multiple real-world problems:
  ... ]
 ```
 **Q:** Currently I'm in Park Street and want to have the best Chinese dishes, show some options
+
 **A:**  
 ```text
 [('Mamagoto', 'Excellent', '4.7', 'https://www.zomato.com/kolkata/mamagoto-park-street-area/info'),
