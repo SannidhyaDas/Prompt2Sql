@@ -1,9 +1,10 @@
 # Prompt2SQL 🚀  
 **An AI-powered app that turns natural language into SQL queries**  
+Easily query your databases by simply asking questions in plain English. Supports multiple databases, seamless query execution, and a clean interface for instant insights.  
+
+
 ![App Interface](https://github.com/SannidhyaDas/Prompt2Sql/blob/main/App_Interface.png)
 
-Easily query your databases by simply asking questions in plain English.  
-Supports multiple databases, seamless query execution, and a clean interface for instant insights.  
 
 ---
 
