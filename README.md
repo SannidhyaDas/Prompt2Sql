@@ -23,7 +23,7 @@ Easily query your databases by simply asking questions in plain English. Support
 
 ## 🎯 Objective  
 
-This project uses the **Zomato restaurants dataset from Kaggle** to demonstrate how non-technical users can ask simple queries and receive:  
+This project uses the **![Zomato restaurants](https://www.kaggle.com/datasets/ronidas39/zomato-india-data-set) dataset from Kaggle** to demonstrate how non-technical users can ask simple queries and receive:  
 
 - Relevant SQL queries generated automatically  
 - Meaningful recommendations in plain English  
